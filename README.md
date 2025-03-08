@@ -40,8 +40,8 @@ MODEL_NAME=your_model_name
 streamlit run app.py
 
 ## 📸 **Screenshot**
-![Chatbot Preview](assets/Dark.jpeg)
-![Chatbot Preview](assets/Light.jpeg)
+![Chatbot Preview](Dark.jpeg)
+![Chatbot Preview](Light.jpeg)
 
 ## 🤖 **How It Works**
 
