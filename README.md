@@ -41,17 +41,18 @@ streamlit run app.py
 
 ## 📸 **Screenshot**
 ![Chatbot Preview](Dark.jpeg)
+
 ![Chatbot Preview](Light.jpeg)
 
 ## 🤖 **How It Works**
 
-Upload a CSV file
+1) Upload a CSV file
 
-Ask questions in natural language
+2) Ask questions in natural language
 
-The chatbot processes the query and retrieves relevant insights
+3) The chatbot processes the query and retrieves relevant insights
 
-Follow up with additional queries while maintaining context
+4) Follow up with additional queries while maintaining context
 
 ## 📜 **License**
 This project is licensed under MIT License.
