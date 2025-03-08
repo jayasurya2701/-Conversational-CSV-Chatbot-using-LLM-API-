@@ -22,13 +22,17 @@ This project is an interactive CSV-based chatbot powered by an LLM API. It enabl
 1️⃣ **Install Dependencies**
 
 Ensure you have Python installed, then run:
+
 pip install -r requirements.txt
 
 2️⃣  **Configure API Credentials**
 
 Create a .env file in the project directory and add:
+
 API_URL=your_llm_api_url
+
 API_KEY=your_llm_api_key
+
 MODEL_NAME=your_model_name
 
 3️⃣ **Run the Chatbot**
