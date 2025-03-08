@@ -2,7 +2,7 @@
 
 This project is an interactive CSV-based chatbot powered by an LLM API. It enables users to upload CSV datasets and ask natural language questions about the data. The chatbot processes the dataset, understands user queries, and provides insightful responses in a conversational manner.
 
-✨ Features
+##✨ **Features**
 
 ✅ Conversational AI – Supports contextual memory for follow-up questions
 
@@ -19,27 +19,27 @@ This project is an interactive CSV-based chatbot powered by an LLM API. It enabl
 ## 🔧 **Setup Instructions**
 
 
-1️⃣ Install Dependencies
+1️⃣ **Install Dependencies**
 
 Ensure you have Python installed, then run:
 pip install -r requirements.txt
 
-2️⃣  Configure API Credentials
+2️⃣  **Configure API Credentials**
 
 Create a .env file in the project directory and add:
 API_URL=your_llm_api_url
 API_KEY=your_llm_api_key
 MODEL_NAME=your_model_name
 
-3️⃣Run the Chatbot
+3️⃣ **Run the Chatbot**
 
 streamlit run app.py
 
-📸 Screenshot
+## 📸 **Screenshot**
 ![Chatbot Preview](assets/Dark.jpeg)
 ![Chatbot Preview](assets/Light.jpeg)
 
-🤖 How It Works
+## 🤖 **How It Works**
 
 Upload a CSV file
 
@@ -49,6 +49,6 @@ The chatbot processes the query and retrieves relevant insights
 
 Follow up with additional queries while maintaining context
 
-📜 License
+## 📜 **License**
 This project is licensed under MIT License.
 
