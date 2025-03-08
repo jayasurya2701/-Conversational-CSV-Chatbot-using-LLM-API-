@@ -1,4 +1,4 @@
-🚀 Conversational CSV Chatbot using LLM API
+## 🚀 **Conversational CSV Chatbot using LLM API**
 
 This project is an interactive CSV-based chatbot powered by an LLM API. It enables users to upload CSV datasets and ask natural language questions about the data. The chatbot processes the dataset, understands user queries, and provides insightful responses in a conversational manner.
 
@@ -16,7 +16,8 @@ This project is an interactive CSV-based chatbot powered by an LLM API. It enabl
 
 ✅ Streamlit-Based UI – Provides a seamless user experience
 
-🔧 Setup Instructions
+## 🔧 **Setup Instructions**
+
 
 1️⃣ Install Dependencies
 
