@@ -9,3 +9,27 @@ This project is an interactive CSV-based chatbot powered by an LLM API. It enabl
 ✅ Optimized API Integration – Ensures accurate and relevant answers
 ✅ Streamlit-Based UI – Provides a seamless user experience
 
+🔧 Setup Instructions
+1️⃣ Install Dependencies
+Ensure you have Python installed, then run:
+pip install -r requirements.txt
+
+2️⃣  Configure API Credentials
+Create a .env file in the project directory and add:
+API_URL=your_llm_api_url
+API_KEY=your_llm_api_key
+MODEL_NAME=your_model_name
+3️⃣Run the Chatbot
+streamlit run app.py
+4️⃣ 
+📸 Screenshot
+
+
+🤖 How It Works
+Upload a CSV file
+Ask questions in natural language
+The chatbot processes the query and retrieves relevant insights
+Follow up with additional queries while maintaining context
+📜 License
+This project is licensed under MIT License.
+
